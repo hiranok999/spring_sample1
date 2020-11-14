@@ -16,3 +16,8 @@ $ git add [ファイル名]
 $ git commit -m ["コメント"]
 $ git push
 ```
+
+* 最新のファイルに更新
+```
+$ git pull
+```
